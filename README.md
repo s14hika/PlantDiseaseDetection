@@ -19,9 +19,4 @@ This project leverages **Machine Learning** techniques to detect plant diseases 
   - Seaborn
 - **Programming Language**: Python
 
-## Installation
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/Plant-Disease-Detection.git
-   cd PlantDiseaseDetection
